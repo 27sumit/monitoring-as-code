@@ -3,9 +3,9 @@ locals {
 }
 
 inputs = {
-  newrelic_api_key = "NRAA-a3ba2f20a92cb9a52bd3a27381b"
-  newrelic_personal_api_key = "NRAK-8PXWCK31YUSDJGQGXTVJRZPGMPD"
-  newrelic_account_id = 2666572
+  newrelic_api_key = "NRAA-a3a52bd3a27381b"
+  newrelic_personal_api_key = "NRAK-8PXWTVJRZPGMPD"
+  newrelic_account_id = 2000072
   newrelic_region = "US"
   env_suffix = "-dev"
   env = "dev"
